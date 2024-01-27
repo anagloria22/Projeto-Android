@@ -39,7 +39,7 @@ header{
     background-image: linear-gradient(to bottom, var(--cor02), var(--cor05));
     min-height: 150px;
     padding-top: 40px;
-    margin-right: -11px;
+    margin-right: -28px;
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ header > p {
 nav {
     background-color: var(--cor05);
     padding: 10px;
-    margin-right: -11px;
+    margin-right: -28px;
     text-align: left;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
 }
@@ -201,6 +201,7 @@ aside a {
 
 footer {
     background-color: var(--cor04);
+    margin-right: -28px;
 }
 
 footer > p {
